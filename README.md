@@ -1,3 +1,3 @@
-# verify-18
+# configure-8b
 
-Small prepare helpers used by our configure pipeline.
+Small setup helpers used by our verify pipeline.
