@@ -1,3 +1,3 @@
-# check-b5
+# configure-4d
 
-Small init helpers used by our prepare pipeline.
+Small setup helpers used by our prepare pipeline.
