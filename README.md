@@ -1,3 +1,3 @@
-# configure-e9
+# configure-ea
 
-Small start helpers used by our verify pipeline.
+Small init helpers used by our verify pipeline.
